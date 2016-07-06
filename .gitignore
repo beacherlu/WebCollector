@@ -6,3 +6,5 @@
 /Lazy/.idea
 /WebCollector-Hadoop/target/
 /JSRule/target/
+.idea
+.gitignore
